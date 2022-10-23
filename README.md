@@ -1,2 +1,3 @@
-# TCS_ION-RIO-125--Automate-sentiment-analysis-of-textual-comments-and-feedback
+## TCS_ION-RIO-125--Automate-sentiment-analysis-of-textual-comments-and-feedback
+Twitter Sentiment Analysis is the process of performing sentiment analysis on tweets. Sentiment analysis is a technique that allows users to determine the sentiments of a given set of data. It is the analysis of tweets on a specific topic to determine how Twitter users feel about that topic. It is a method of distinguishing between positive, negative, and neutral sentiments using natural language processing (NLP)
 Using a dataset of 1.6 million tweets that have been extracted using the Twitter API, we created a supervised learning model and used the BERT-CNN-BiLSTM learning pipeline to train and test it for predictions
